@@ -15,7 +15,7 @@ BlockIQ is a decentralized blockchain-themed quiz game that integrates blockchai
 
 ## Deployment
 - *Contract Address*: [View on Explorer](https://xt4scan.ngd.network/address/0xf9aed9b9bC6DED1EffD90C9cecB5CEcC65b3C70A)
-- *Coin Used*: MEME (MEMECOIN)
+- *Coin Used*: GAS & MEME (MEMECOIN)
 
 ## How to Use
 1. *Connect Wallet*: Use MetaMask to connect your wallet to the application.
@@ -32,3 +32,19 @@ The frontend allows users to interact with the BlockIQ smart contract via a web 
 - Implement leaderboards for competitive gameplay.
 - Integrate NFT rewards for quiz achievements.
 - Implement automated notifications for quiz events and rewards.
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-25 at 12 23 54 PM" src="https://github.com/user-attachments/assets/97aafa96-03bc-4938-b1d6-f55b7b935a98" />
+<img width="1440" alt="Screenshot 2024-12-25 at 12 24 04 PM" src="https://github.com/user-attachments/assets/0153c931-f21e-4cf9-b823-34ca93ccf205" />
+<img width="1440" alt="Screenshot 2024-12-25 at 12 24 15 PM" src="https://github.com/user-attachments/assets/693dd086-4587-4cda-a1f3-d6c3820159b6" />
+<img width="1439" alt="Screenshot 2024-12-25 at 12 44 43 PM" src="https://github.com/user-attachments/assets/7bb7e404-f73b-4d16-a10a-a5fe65da36d9" />
+<img width="749" alt="Screenshot 2024-12-25 at 12 45 31 PM" src="https://github.com/user-attachments/assets/36d986e6-2946-4cb5-bcac-7de94324d82d" />
+
+
+
+
+
+
+
+
+
