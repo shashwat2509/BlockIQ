@@ -10,11 +10,11 @@ BlockIQ is a decentralized blockchain-themed quiz game that integrates blockchai
 - Fully decentralized with no reliance on intermediaries.
 
 ## Contract Details
-- *Contract Address*: 0xf9aed9b9bC6DED1EffD90C9cecB5CEcC65b3C70A
-- *Network*: Neo X Testnet T4
+- *Contract Address*: 0x119CFa5bF364B5D4F9d66c8E65Fc46BD5B42c8ba
+- *Network*: Neo X Mainnet
 
 ## Deployment
-- *Contract Address*: [View on Explorer](https://xt4scan.ngd.network/address/0xf9aed9b9bC6DED1EffD90C9cecB5CEcC65b3C70A)
+- *Contract Address*: [View on Explorer](https://xexplorer.neo.org/address/0x119CFa5bF364B5D4F9d66c8E65Fc46BD5B42c8ba)
 - *Coin Used*: GAS & MEME (MEMECOIN)
 
 ## How to Use
