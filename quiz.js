@@ -1,5 +1,5 @@
-const memeTokenAddress = "0x119CFa5bF364B5D4F9d66c8E65Fc46BD5B42c8ba";
-const quizContractAddress = "0xf9aed9b9bC6DED1EffD90C9cecB5CEcC65b3C70A";
+const memeTokenAddress = "0xB6Afd155dE5eE15ED489B7793346155aF714D705";
+const quizContractAddress = "0x119CFa5bF364B5D4F9d66c8E65Fc46BD5B42c8ba";
 
 let web3;
 let account;
